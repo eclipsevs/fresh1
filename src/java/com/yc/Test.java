@@ -1,4 +1,4 @@
-package java;
+package com.yc;
 
 /**
  * @author wk
@@ -9,6 +9,6 @@ public class Test {
         System.out.println("dddddddddd");
         System.out.println("ffffff");
         System.out.println("oooooooooooo");
-        System.out.println("vvvvvv");
+        System.out.println("gggggggggg");
     }
 }
